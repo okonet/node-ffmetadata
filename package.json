@@ -28,13 +28,13 @@
     "url": "https://github.com/parshap/node-ffmetadata/issues"
   },
   "dependencies": {
-    "concat-stream": "~1.0.0",
+    "concat-stream": "~1.5.2",
     "through": "~2.3.4",
-    "split": "~0.2.6",
-    "stream-combiner": "0.0.2",
-    "stream-filter": "1"
+    "split": "~1.0.0",
+    "stream-combiner": "0.2.2",
+    "stream-filter": "^2.1.0"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "tape": "~4.6.3"
   }
 }
